@@ -29,7 +29,7 @@ car : 84.8 %
 bird : 64.3 %  
 cat : 44.7 %  
 deer : 53.3 %  
-dog : 57.9 %
+dog : 57.9 %  
 frog : 77.6 %
 horse : 79.1 %
 ship : 74.9 %
