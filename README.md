@@ -25,7 +25,7 @@ visualize.py
 總準確率：68.68%  
 各類別準確率：  
 plane : 75.7 %  
-car  : 84.8 %  
+car : 84.8 %  
 bird : 64.3 %  
 cat : 44.7 %  
 deer : 53.3 %  
