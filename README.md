@@ -1,4 +1,4 @@
-# 使用Pytorch 建立 Shor-cut-CNN 對 CIFAR-10影像集 進行圖像分類
+# 使用Pytorch 建立 Short-cut-CNN 對 CIFAR-10影像集 進行圖像分類
 
 參照ResNet18 模型來對 CIFAR-10 數據集進行圖像分類，通過使用殘差模組來緩解深層網絡的退化問題。
 
